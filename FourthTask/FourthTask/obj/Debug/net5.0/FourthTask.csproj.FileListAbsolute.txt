@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\FourthTask\FourthTask\bin\Debug\net5.0\FourthTask.deps.json
+C:\Users\User\source\repos\FourthTask\FourthTask\bin\Debug\net5.0\FourthTask.dll
+C:\Users\User\source\repos\FourthTask\FourthTask\bin\Debug\net5.0\ref\FourthTask.dll
+C:\Users\User\source\repos\FourthTask\FourthTask\bin\Debug\net5.0\FourthTask.pdb
+C:\Users\User\source\repos\FourthTask\FourthTask\obj\Debug\net5.0\FourthTask.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FourthTask\FourthTask\obj\Debug\net5.0\FourthTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FourthTask\FourthTask\obj\Debug\net5.0\FourthTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FourthTask\FourthTask\obj\Debug\net5.0\FourthTask.AssemblyInfo.cs
+C:\Users\User\source\repos\FourthTask\FourthTask\obj\Debug\net5.0\FourthTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FourthTask\FourthTask\obj\Debug\net5.0\FourthTask.dll
+C:\Users\User\source\repos\FourthTask\FourthTask\obj\Debug\net5.0\ref\FourthTask.dll
+C:\Users\User\source\repos\FourthTask\FourthTask\obj\Debug\net5.0\FourthTask.pdb
